@@ -1,12 +1,13 @@
 <!-- ══════════════════════ HERO BANNER ══════════════════════ -->
 
-![banner](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,6,2&height=170&section=header&text=MEHROZ%20AZYAAN&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=Senior%20ServiceNow%20Developer%20%E2%80%A2%20ITSM%20%E2%80%A2%20CMDB%20%E2%80%A2%20Integrations&descSize=15&descAlignY=72&animation=fadeIn)
+![banner](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,6,2&height=180&section=header&text=MEHROZ%20AZYAAN&fontSize=50&fontColor=ffffff&fontAlignY=42&desc=SENIOR%20CLOUD%20PLATFORM%20ENGINEER%20%E2%80%A2%20EKS%20%E2%80%A2%20IDP%20%E2%80%A2%20GITOPS&descSize=15&descAlignY=72&animation=fadeIn)
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/azyanmehroz%40gmail.com-1E3A8A?style=flat-square&logo=gmail&logoColor=white)](mailto:azyanmehroz@gmail.com)
-![Phone](https://img.shields.io/badge/+1_620_702_7516-1E3A8A?style=flat-square)
-![Location](https://img.shields.io/badge/New_York_City,_USA-1E3A8A?style=flat-square)
+[![Email](https://img.shields.io/badge/mehroozazhaan%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:mehroozazhaan@gmail.com)
+![Phone](https://img.shields.io/badge/+1_620_702_7516-111111?style=flat-square)
+![Location](https://img.shields.io/badge/New_York_City,_USA-111111?style=flat-square)
+[![GitHub](https://img.shields.io/badge/github.com/MehrozAzyaan-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/MehrozAzyaan)
 
 </div>
 
@@ -16,63 +17,58 @@
 
 <div align="center">
 
-|  &nbsp;&nbsp; 8+ &nbsp;&nbsp; |  &nbsp;&nbsp; 5,000+ &nbsp;&nbsp; |  &nbsp;&nbsp; 30+ &nbsp;&nbsp; |  &nbsp;&nbsp; 2,400+ &nbsp;&nbsp; |  &nbsp;&nbsp; 4,200 &nbsp;&nbsp; |
+|  &nbsp; 10+ &nbsp; |  &nbsp; 200+ &nbsp; |  &nbsp; 14 &nbsp; |  &nbsp; 8 min &nbsp; |  &nbsp; 4 ★ &nbsp; |
 | :---: | :---: | :---: | :---: | :---: |
-| years | users supported | integrations | CIs managed | tickets deflected / qtr |
+| years | microservices on EKS | AWS accounts | MTTR (was 45) | certifications |
 
 </div>
 
 <br/>
 
 > [!NOTE]
-> **Senior ServiceNow Developer** building enterprise workflow automation, ITSM, CMDB, and custom applications across **healthcare (HIPAA-aligned)**, finance, and large enterprise organizations. Hands-on with Flow Designer, Integration Hub, Discovery, Service Portal, ATF, and modern AI features — **Predictive Intelligence, Virtual Agent, and Now Assist**.
+> **Senior Cloud & Platform Engineer** building scalable cloud infrastructure, **Kubernetes platforms**, and automated DevOps environments across SaaS, fintech, and enterprise. Strong with **AWS, Kubernetes, Terraform, Backstage, Crossplane, eBPF, and Sigstore / SLSA** supply-chain security. Focused on **internal developer platforms**, **AI / GenAI infrastructure**, and 2026-era cloud-native practices.
 
 <br/>
 
 ## ▎ &nbsp; Experience
 
-### Oznolo &nbsp; · &nbsp; Senior ServiceNow Developer
-*Austin, TX &nbsp; ⋅ &nbsp; Jul 2022 → Present*
+### Techinoxsystems &nbsp; · &nbsp; Senior Cloud & Platform Engineer
+*Buffalo, NY &nbsp; ⋅ &nbsp; Apr 2022 → Present*
 
-Leading ServiceNow platform development across IT, HR, security, and operations.
+Leading cloud platform work across multi-region AWS and a multi-cluster EKS fleet.
 
-- Platform development supporting **5,000+ users** and a portfolio of **14 custom applications**
-- Shipped **8 custom apps** on App Engine using Flow Designer, Integration Hub, and Service Portal — including a HIPAA-aligned access request workflow for a healthcare BU
-- Automated onboarding with Azure AD, Okta, Workday, AWS — provisioning **3 days → under 4 hours** for 850+ new hires / year
-- CMDB governance, Discovery, and Service Mapping across **2,400+ CIs** — accuracy **71% → 96%**
-- **25+ REST / SOAP integrations** with Splunk, Datadog, HR, and security — 180k+ events / day
-- **12 Performance Analytics dashboards** + Predictive Intelligence models — triage time **−40%**
-- Led 3 platform upgrades (Tokyo → Utah → Vancouver) with **320 ATF tests** and zero-downtime deploys
-- Deployed **Virtual Agent + Now Assist** for password reset and access — deflecting **4,200+ tickets / quarter**
+- Multi-region AWS + EKS fleet serving **200+ microservices** with **Karpenter** autoscaling and **Argo Rollouts** progressive delivery
+- Built an internal developer platform on **Backstage** with **Terraform + Crossplane** golden paths, self-service templates, and policy-as-code across **14 AWS accounts**
+- Observability on Prometheus, Grafana, OpenTelemetry, Datadog, and **eBPF tracing (Cilium / Tetragon)** — MTTR **45 min → under 8 min**
+- Built supply-chain security pipeline with **Sigstore / cosign**, **SLSA** provenance, and **SBOM** generation across all production builds
+- Supported **AI / GenAI infrastructure** — AWS Bedrock, GPU node pools, and vector DB provisioning (Pinecone, pgvector) for internal LLM and RAG workloads
+- Drove GitHub Actions + ArgoCD **GitOps** reaching **60+ deploys / week at 99% rollout success**; reported DORA metrics to leadership
 
 <br/>
 
-### GlideFast Consulting &nbsp; · &nbsp; ServiceNow Developer
-*Boston, MA &nbsp; ⋅ &nbsp; Jan 2020 → Jun 2022*
+### CloudHesive &nbsp; · &nbsp; DevOps Engineer
+*Fort Lauderdale, FL &nbsp; ⋅ &nbsp; Jan 2018 → Mar 2022*
 
-ServiceNow ITSM and ITOM implementations for healthcare, finance, and enterprise clients.
+CI/CD infrastructure and Kubernetes migrations for cloud-native engineering teams.
 
-- Delivered implementations for **6 clients** — including a 4-hospital network and a top-15 US bank
-- **60+ custom workflows**, business rules, client scripts, UI policies, and Service Portal components
-- IT asset and CMDB integrations via Discovery, SCCM, and cloud inventory — **18k+ CIs / day** across 4 datacenters
-- Automated incident / change / request management — **incident resolution time −35%**
-- Service Catalog + self-service portals with **120+ items** — inbound tickets **−28%**
-- ServiceNow ↔ Jira, Azure DevOps, Slack, monitoring tools — **45k+ daily API calls** bidirectional
-- **200+ ATF automation tests** + deployment validation — release defect-free rate **98%**
-- HIPAA-aligned access controls, audit logging, and SoD review for healthcare clients
+- Designed Kubernetes migration strategies moving **60+ workloads** from EC2 to EKS, cutting infra cost **~35%**
+- Built compliance automation with **OPA, Conftest**, and infrastructure validation enforcing **200+ policy rules**
+- Implemented DR + cross-region backup with **Velero** — RTO under 30 min, RPO under 5 min for critical workloads
+- Introduced **ArgoCD-based GitOps** replacing imperative deploys and lifting release stability
+- Improved CI pipelines via caching, parallelization, and ephemeral environments — average build time **−55%**
 
 <br/>
 
-### TEKsystems &nbsp; · &nbsp; ServiceNow Administrator / Developer
-*Hanover, MD &nbsp; ⋅ &nbsp; Aug 2017 → Dec 2018*
+### JHC Technology &nbsp; · &nbsp; Cloud Engineer
+*Hanover, MD &nbsp; ⋅ &nbsp; Jul 2015 → Dec 2017*
 
-ServiceNow administration and platform support for enterprise users.
+AWS migration and modernization for healthcare and SaaS clients.
 
-- Administered the platform for a **1,400-user enterprise org** with ITIL-aligned process tuning
-- Built **40+ scheduled jobs**, transform maps, notifications, and approval workflows — manual effort **−25%**
-- SLA definitions, assignment rules, and automated escalations — SLA compliance **82% → 95%**
-- Maintained CMDB + Discovery across **800+ CIs**, improving infra visibility
-- Custom forms, reports, and dashboards for business and service management
+- Delivered AWS migration projects for **7 healthcare and SaaS clients**, lifting and shifting **400+ workloads**
+- Designed HA architectures with Auto Scaling, Load Balancers, and multi-AZ RDS — **99.95% production uptime**
+- Automated provisioning + security hardening with **Ansible + CloudFormation** — environment build days → under 2 hours
+- Implemented **HIPAA-aligned** controls — encryption-at-rest, audit logging, least-privilege IAM
+- Supported cost optimization initiatives reducing average customer cloud spend **~22%**
 
 <br/>
 
@@ -82,86 +78,106 @@ ServiceNow administration and platform support for enterprise users.
 <tr>
 <td width="33%" valign="top" align="center">
 
-#### 🧩 &nbsp; ServiceNow Modules
+#### ☁️ &nbsp; Cloud Platforms
 
-![ITSM](https://img.shields.io/badge/ITSM-1E3A8A?style=flat-square)
-![ITOM](https://img.shields.io/badge/ITOM-1E3A8A?style=flat-square)
-![HRSD](https://img.shields.io/badge/HRSD-1E3A8A?style=flat-square)
-![CMDB](https://img.shields.io/badge/CMDB-1E3A8A?style=flat-square)
-![Discovery](https://img.shields.io/badge/Discovery-1E3A8A?style=flat-square)
-![Service Mapping](https://img.shields.io/badge/Service_Mapping-1E3A8A?style=flat-square)
-![App Engine](https://img.shields.io/badge/App_Engine-1E3A8A?style=flat-square)
-![Service Catalog](https://img.shields.io/badge/Service_Catalog-1E3A8A?style=flat-square)
-![Knowledge Mgmt](https://img.shields.io/badge/Knowledge_Mgmt-1E3A8A?style=flat-square)
-![Perf Analytics](https://img.shields.io/badge/Performance_Analytics-1E3A8A?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 </td>
 <td width="33%" valign="top" align="center">
 
-#### ⚙️ &nbsp; Development & Automation
+#### ⎈ &nbsp; Containers & Platform
 
-![Flow Designer](https://img.shields.io/badge/Flow_Designer-3B82F6?style=flat-square)
-![Integration Hub](https://img.shields.io/badge/Integration_Hub-3B82F6?style=flat-square)
-![Business Rules](https://img.shields.io/badge/Business_Rules-3B82F6?style=flat-square)
-![Client Scripts](https://img.shields.io/badge/Client_Scripts-3B82F6?style=flat-square)
-![UI Policies](https://img.shields.io/badge/UI_Policies-3B82F6?style=flat-square)
-![Script Includes](https://img.shields.io/badge/Script_Includes-3B82F6?style=flat-square)
-![Scheduled Jobs](https://img.shields.io/badge/Scheduled_Jobs-3B82F6?style=flat-square)
-![ATF](https://img.shields.io/badge/ATF-3B82F6?style=flat-square)
-![Workflow](https://img.shields.io/badge/Workflow_Automation-3B82F6?style=flat-square)
+![K8s](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![EKS](https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Karpenter](https://img.shields.io/badge/Karpenter-FF9900?style=flat-square)
+![Cilium](https://img.shields.io/badge/Cilium-F8C517?style=flat-square)
+![Backstage](https://img.shields.io/badge/Backstage-9BF0E1?style=flat-square)
 
 </td>
 <td width="33%" valign="top" align="center">
 
-#### 🔌 &nbsp; Integrations & APIs
+#### 📐 &nbsp; Infrastructure as Code
 
-![REST](https://img.shields.io/badge/REST_APIs-0EA5E9?style=flat-square)
-![SOAP](https://img.shields.io/badge/SOAP_APIs-0EA5E9?style=flat-square)
-![Azure AD](https://img.shields.io/badge/Azure_AD-0EA5E9?style=flat-square)
-![Okta](https://img.shields.io/badge/Okta-0EA5E9?style=flat-square)
-![Jira](https://img.shields.io/badge/Jira-0EA5E9?style=flat-square)
-![Workday](https://img.shields.io/badge/Workday-0EA5E9?style=flat-square)
-![SCCM](https://img.shields.io/badge/SCCM-0EA5E9?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-0EA5E9?style=flat-square)
-![Slack](https://img.shields.io/badge/Slack-0EA5E9?style=flat-square)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0EA5E9?style=flat-square)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Crossplane](https://img.shields.io/badge/Crossplane-A78BFA?style=flat-square)
+![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=flat-square&logo=pulumi&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![OPA](https://img.shields.io/badge/OPA-7C3AED?style=flat-square)
+![Conftest](https://img.shields.io/badge/Conftest-7C3AED?style=flat-square)
 
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top" align="center">
 
-#### 💻 &nbsp; Programming
+#### 🔄 &nbsp; CI/CD & Automation
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logoColor=black)
-![Glide API](https://img.shields.io/badge/Glide_API-62D84E?style=flat-square)
-![AngularJS](https://img.shields.io/badge/AngularJS-DD0031?style=flat-square)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square)
-
-</td>
-<td width="33%" valign="top" align="center">
-
-#### 🛡️ &nbsp; Platform & Governance
-
-![CSDM](https://img.shields.io/badge/CSDM-7C3AED?style=flat-square)
-![CMDB Gov](https://img.shields.io/badge/CMDB_Governance-7C3AED?style=flat-square)
-![Access Controls](https://img.shields.io/badge/Access_Controls-7C3AED?style=flat-square)
-![Update Sets](https://img.shields.io/badge/Update_Sets-7C3AED?style=flat-square)
-![Agile](https://img.shields.io/badge/Agile-7C3AED?style=flat-square)
-![ITIL](https://img.shields.io/badge/ITIL_Framework-7C3AED?style=flat-square)
+![GHA](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Atlantis](https://img.shields.io/badge/Atlantis-0F4C81?style=flat-square)
+![Flux](https://img.shields.io/badge/Flux-5468FF?style=flat-square)
+![GitOps](https://img.shields.io/badge/GitOps-EF7B4D?style=flat-square)
+![DORA](https://img.shields.io/badge/DORA_Metrics-22C55E?style=flat-square)
 
 </td>
 <td width="33%" valign="top" align="center">
 
-#### 🤖 &nbsp; AI & Modern ServiceNow
+#### 👁 &nbsp; Observability
 
-![Predictive Intel](https://img.shields.io/badge/Predictive_Intelligence-62D84E?style=flat-square)
-![Virtual Agent](https://img.shields.io/badge/Virtual_Agent-62D84E?style=flat-square)
-![Now Assist](https://img.shields.io/badge/Now_Assist-62D84E?style=flat-square)
-![Automation Engine](https://img.shields.io/badge/Automation_Engine-62D84E?style=flat-square)
-![AI Search](https://img.shields.io/badge/AI_Search-62D84E?style=flat-square)
-![Low-Code](https://img.shields.io/badge/Low--Code-62D84E?style=flat-square)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![OTel](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+![eBPF](https://img.shields.io/badge/eBPF_/_Tetragon-F8C517?style=flat-square)
+![Loki](https://img.shields.io/badge/Loki-FED141?style=flat-square)
+
+</td>
+<td width="33%" valign="top" align="center">
+
+#### 🛡️ &nbsp; Security & Governance
+
+![Vault](https://img.shields.io/badge/Vault-000000?style=flat-square&logo=vault&logoColor=white)
+![Sigstore](https://img.shields.io/badge/Sigstore_/_cosign-FFCC4D?style=flat-square)
+![SLSA](https://img.shields.io/badge/SLSA-22C55E?style=flat-square)
+![SBOM](https://img.shields.io/badge/SBOM-EC4899?style=flat-square)
+![Falco](https://img.shields.io/badge/Falco-00BFFF?style=flat-square)
+![HIPAA](https://img.shields.io/badge/HIPAA-22C55E?style=flat-square)
+![SOC 2](https://img.shields.io/badge/SOC_2-22C55E?style=flat-square)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-EC4899?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+#### 🧠 &nbsp; AI & GenAI Infrastructure
+
+![Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GPU Nodes](https://img.shields.io/badge/GPU_Node_Pools-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![KServe](https://img.shields.io/badge/KServe_/_Ray_Serve-7C3AED?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-1B1B1B?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps_Foundations-A78BFA?style=flat-square)
+
+</td>
+<td width="50%" valign="top" align="center">
+
+#### 🚀 &nbsp; 2026 Modern Cloud
+
+![Platform Eng](https://img.shields.io/badge/Platform_Engineering-111111?style=flat-square)
+![IDP](https://img.shields.io/badge/Internal_Developer_Portals-9BF0E1?style=flat-square)
+![FinOps](https://img.shields.io/badge/FinOps-22C55E?style=flat-square)
+![SRE](https://img.shields.io/badge/SRE-111111?style=flat-square)
+![Multi-Region](https://img.shields.io/badge/Multi--Region-FF9900?style=flat-square)
+![eBPF Obs](https://img.shields.io/badge/eBPF_Observability-F8C517?style=flat-square)
+![Zero Trust](https://img.shields.io/badge/Zero--Trust_Networking-7C3AED?style=flat-square)
+![WASM Edge](https://img.shields.io/badge/WASM_at_Edge-654FF0?style=flat-square)
 
 </td>
 </tr>
@@ -172,19 +188,24 @@ ServiceNow administration and platform support for enterprise users.
 ## ▎ &nbsp; Featured Projects
 
 > [!IMPORTANT]
-> **Enterprise Workflow Automation Platform**
-> Automated onboarding and approval workflows across 12 departments and **850+ annual new hires**. Manual provisioning cut **~70%**, fulfillment time **3 days → under 4 hours**.
-> *Flow Designer · Integration Hub · Azure AD · Okta · Workday*
+> **Internal Developer Platform (Backstage + Crossplane)**
+> Self-service templates, service catalog, and golden-path deployment workflows for **80+ engineers** across 14 AWS accounts. Policy-as-code enforcement on every change.
+> *Backstage · Terraform · Crossplane · OPA · Conftest*
 
 > [!IMPORTANT]
-> **CMDB Optimization Initiative**
-> CMDB health across **2,400+ CIs** via Discovery, reconciliation rules, and automated validation. Accuracy **71% → 96%**, dependency-mapping time **−50%**.
-> *Discovery · Service Mapping · CSDM*
+> **eBPF Observability & MTTR Cut**
+> Layered Prometheus + Grafana + OpenTelemetry + Datadog with **eBPF kernel tracing (Cilium / Tetragon)**. MTTR **45 min → under 8 min**.
+> *Cilium · Tetragon · Prometheus · Datadog · OpenTelemetry*
 
 > [!IMPORTANT]
-> **Service Portal Modernization**
-> Rebuilt the self-service portal and catalog with **120+ items** for 5,000+ users. Catalog usage **+60%**, inbound tickets **−28%**.
-> *Service Portal · Catalog · REST APIs · Slack*
+> **Supply-Chain Security (Sigstore + SLSA)**
+> Container signing with **Sigstore / cosign**, SLSA provenance, and SBOM generation across all production builds. Verifiable artifacts end-to-end.
+> *Sigstore · cosign · SLSA · SBOM · GitHub Actions*
+
+> [!IMPORTANT]
+> **AI / GenAI Platform Foundations**
+> AWS Bedrock integrations, GPU node pools, and vector database provisioning (Pinecone, pgvector) for internal LLM and RAG workloads.
+> *AWS Bedrock · GPU Karpenter pools · Pinecone · pgvector*
 
 <br/>
 
@@ -192,48 +213,8 @@ ServiceNow administration and platform support for enterprise users.
 
 <div align="center">
 
-[![SN ITSM](https://img.shields.io/badge/ServiceNow-Implementation_Specialist_ITSM-62D84E?style=for-the-badge&logo=servicenow&logoColor=white&labelColor=1E3A8A)](#)
-[![CAD](https://img.shields.io/badge/ServiceNow-Certified_Application_Developer-62D84E?style=for-the-badge&logo=servicenow&logoColor=white&labelColor=1E3A8A)](#)
+[![AWS SAP](https://img.shields.io/badge/AWS-Solutions_Architect_Professional-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=111111)](#)
+[![AWS DOP](https://img.shields.io/badge/AWS-DevOps_Engineer_Professional-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=111111)](#)
 
-[![CSA](https://img.shields.io/badge/ServiceNow-Certified_System_Administrator-62D84E?style=for-the-badge&logo=servicenow&logoColor=white&labelColor=1E3A8A)](#)
-[![ITIL](https://img.shields.io/badge/ITIL-4_Foundation-0078D4?style=for-the-badge&logoColor=white&labelColor=1E3A8A)](#)
-
-</div>
-
-<br/>
-
-## ▎ &nbsp; Education
-
-**B.S. Information Technology** &nbsp;·&nbsp; New York Institute of Technology
-
-<br/>
-
-## ▎ &nbsp; Community
-
-> [!NOTE]
-> **Open Source** &nbsp;·&nbsp; Contributor to ServiceNow community solutions and automation utilities. Built reusable internal deployment + ATF pipeline automation scripts.
-
-> [!NOTE]
-> **Professional Focus** &nbsp;·&nbsp; Enterprise Workflow Automation · CMDB & ITOM Optimization · ServiceNow Integrations · AI & Predictive Intelligence · Platform Governance & Scalability
-
-<br/>
-
----
-
-<div align="center">
-
-### Let's Connect
-
-Working on a ServiceNow platform build, CMDB cleanup, or AI-powered Now Platform workflows? Drop a message.
-
-<br/>
-
-[![Send Message](https://img.shields.io/badge/▶_send_a_message-1E3A8A?style=for-the-badge&labelColor=ffffff)](mailto:azyanmehroz@gmail.com)
-
-<br/>
-
-*Built on the Now Platform · Shipped through Update Sets · Tested with ATF · Released by Copado*
-
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=2,6,12&height=80&section=footer" />
-
-</div>
+[![CKA](https://img.shields.io/badge/CNCF-Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=111111)](#)
+[![TF](https://img.shields.io/badge/HashiCorp-Terraform_Associate-7B42BC?style=for-the-badge&logo=terraform&logoColo...
